@@ -1,1 +1,1 @@
-# PDS
+# Respository for college assignments for PDS(Python for Data Science) subject.
